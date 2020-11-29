@@ -1,6 +1,6 @@
 # final_project_part1_2020
 
-# WHAT WE ARE WORKING 
+# WHAT WE ARE WORKING ON
 Our project is about creating an efficient parking system for Kigali Arena during its forthcoming sporting events / carnival in 2021.
 We assume this is going to be one of the biggest sporting events in East Africa and expect to have a huge number of attendance.
 
